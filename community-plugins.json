@@ -13749,13 +13749,6 @@
     "repo": "alythobani/obsidian-callout-toggles"
     },
     {
-      "id": "task-director",
-      "name": "Task Director",
-      "author": "Cybertramp",
-      "description": "Manage and change tasks targeting a specific page",
-      "repo": "cybertramp/obsidian-task-director"
-    },
-    {
         "id": "copy-image-text",
         "name": "复制图文 (Copy Image Text)",
         "author": "msgk",
@@ -14069,6 +14062,13 @@
     "author": "Omri Levi",
     "description": "Updates numbered lists automatically to keep them in sequential order. Features live updates, smart pasting, and manual control options.",
     "repo": "OmriLeviGit/Automatic-Renumbering-Obsidian"
+  },
+  {
+    "id": "task-director",
+    "name": "Task Director",
+    "author": "Cybertramp",
+    "description": "Manage and change tasks targeting a specific page",
+    "repo": "cybertramp/obsidian-task-director"
   }
 ]
 
